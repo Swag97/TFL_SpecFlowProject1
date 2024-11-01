@@ -32,4 +32,6 @@ ExtentReport – handles reports setup
 -	Html report will be generated in TestResults – index.html
  
 
- 
+ NOTE:
+1. Word document named "TFL_SpecFlow_project_overview is added with same information and screenshots in the same folder
+
