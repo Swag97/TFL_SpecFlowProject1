@@ -19,7 +19,7 @@ SpecFlow C# framework and follows behavior driver development approach and ensur
 -	This approach helped me run 
 1.	3 cases from Feature 1 on single instance and achieved continuous execution.
 2.	Feature 2 has 1 case – independent case with new instance
-3.	Feature 3 has 1 case – independent case with ne instance.
+3.	Feature 3 has 1 case – independent case with new instance.
  
 -	Achieved report generation by using implementing Extent Reports
 -	Created a folder called PageObjects which has a class called PageObject.cs
